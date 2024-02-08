@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import './Travelcards.css'
-import LocationIcon from '../../../public/images/location-icon.svg'
+import LocationIcon from '../images/location-icon.svg'
 import Navbar from './Navbar'
 
  /*
